@@ -46,7 +46,7 @@ Create projects, clients, and freelancers from the macOS File menu. Use View to 
 
 ## Get started
 
-Coool PM is available here as source code. Build it locally on macOS 14 or later. Local AI requires Apple Silicon.
+Download the [Apple Silicon tester installer](https://github.com/clonegitroot/coool-pm-macos/releases/tag/v1.0.2) for macOS 14 or later, or build from source below. The tester installer is ad-hoc signed and unnotarized. See the [installation guide](docs/INSTALL.md) for opening it on macOS. Local AI requires Apple Silicon.
 
 ### Let Claude or Codex help
 
