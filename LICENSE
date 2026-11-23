@@ -1,0 +1,55 @@
+Coool PM Source-Available License, version 1.0
+Copyright (c) 2026 David Sattler
+
+Coool PM's original software, documentation and assets in this distribution
+are licensed under Creative Commons Attribution-NonCommercial-ShareAlike
+4.0 International, with the additional permissions and conditions below.
+Where these terms conflict, these terms govern. The base license legal
+code is available at https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en.
+
+1. Using Coool PM
+
+You may run Coool PM and modify it for your own use or your organization's
+internal use, including for paid client work, subject to these terms.
+This permission includes the rights needed to install, run and make those
+internal modifications. You may use the estimates, invoices, reports and
+other documents you create with it commercially. The licensor claims no
+rights in your data or original output by reason of your use of Coool PM.
+
+2. Distributing and offering Coool PM
+
+You may publicly share the software and modified versions at no charge
+under this license. Preserve the copyright and license notices, credit
+Coool PM and David Sattler, and identify any modifications. Published
+adaptations must carry the same license, including these terms. Voluntary
+donations are permitted when everyone can obtain and use the release on
+the same terms without paying.
+
+You need a separate written agreement from David Sattler to sell or
+license access to Coool PM or a version incorporating it, bundle it in a
+commercial software product, or offer access to its functionality as
+part of a paid hosted service, API, subscription or usage-based offering.
+The licensor may distribute the software commercially and grant separate
+licenses. Commercial licensing inquiries: https://davidsattler.de/
+
+3. Large organizations
+
+If you use Coool PM on behalf of an organization whose consolidated gross
+revenue exceeded US $2 million in its most recently completed fiscal year,
+the permission in section 1 requires a separate written agreement covering
+each user. For this threshold, count the organization and entities it
+controls, is controlled by, or shares common control with.
+
+4. Attribution and third-party components
+
+Use the Coool PM name in attribution. Identify unofficial versions
+clearly and avoid implying endorsement or affiliation. Third-party
+components remain under their own licenses. See THIRD_PARTY_NOTICES.md.
+
+5. Contributions
+
+By intentionally submitting material for inclusion, you offer it under
+this license and grant David Sattler a perpetual, worldwide, irrevocable,
+nonexclusive, royalty-free license to use, reproduce, modify, distribute
+and sublicense the contribution, including commercially. Submit only
+material you have authority to license on those terms.

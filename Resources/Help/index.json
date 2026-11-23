@@ -1,0 +1,66 @@
+[
+  {
+    "id": "getting-started",
+    "symbol": "sparkles"
+  },
+  {
+    "id": "clients-projects",
+    "symbol": "person.2"
+  },
+  {
+    "id": "pricing",
+    "symbol": "function"
+  },
+  {
+    "id": "documents",
+    "symbol": "doc.text"
+  },
+  {
+    "id": "billing",
+    "symbol": "creditcard"
+  },
+  {
+    "id": "controlling",
+    "symbol": "chart.line.uptrend.xyaxis"
+  },
+  {
+    "id": "reporting",
+    "symbol": "chart.bar"
+  },
+  {
+    "id": "local-ai",
+    "symbol": "sparkle"
+  },
+  {
+    "id": "ai-prompting",
+    "symbol": "text.bubble"
+  },
+  {
+    "id": "settings",
+    "symbol": "slider.horizontal.3"
+  },
+  {
+    "id": "backups",
+    "symbol": "externaldrive.badge.timemachine"
+  },
+  {
+    "id": "privacy",
+    "symbol": "lock.shield"
+  },
+  {
+    "id": "xrechnung",
+    "symbol": "doc.badge.gearshape"
+  },
+  {
+    "id": "mcp",
+    "symbol": "point.3.connected.trianglepath.dotted"
+  },
+  {
+    "id": "building",
+    "symbol": "hammer"
+  },
+  {
+    "id": "troubleshooting",
+    "symbol": "lifepreserver"
+  }
+]
