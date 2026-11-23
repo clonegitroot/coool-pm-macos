@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Coool PM</title>
+        <item>
+            <title>1.0.2</title>
+            <pubDate>Mon, 23 Nov 2026 13:10:51 +0100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[Coool PM now checks for updates through GitHub. This bridge release moves existing installations to the new feed automatically. The Apple Silicon installer is available for manual installation on macOS 14 or later.
+]]></description>
+            <enclosure url="https://github.com/clonegitroot/coool-pm-macos/releases/download/v1.0.2/Coool-PM-1.0.2-arm64.zip" length="15940962" type="application/octet-stream" sparkle:edSignature="CjnznJ8+icyTcLbypXdVCs7SSPBD1mNKaqGTAwqzy8wKPI2mfhurlNSr2LW60Zjg9OLWMeLRAj+rJYvav9R5AA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 1I8woBVG2v6BQL7gjS5lt5UDwM2xFjISaq5IPF/fSyjKXjyGClIzX65VKkdWR0N7aOkTZAApKbwmPgGHt7JcDA==
+length: 1431
+-->
