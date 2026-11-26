@@ -10,6 +10,7 @@
 <p align="center">
   <a href="#get-started">Get started</a> ·
   <a href="#what-you-can-do">Features</a> ·
+  <a href="#app-screenshots">Screenshots</a> ·
   <a href="#a-little-help-from-local-ai">Local AI</a> ·
   <a href="#your-work-your-data">Privacy</a> ·
   <a href="#find-your-way-around">Guides</a>
@@ -21,9 +22,9 @@ Creative projects come with people, plans, changing scopes—and plenty of paper
 
 Built for **freelancers, creative producers and project managers**. Start with a simple setup, then enable more detailed planning and financial tools when you need them.
 
-![Coool PM business overview showing monthly earnings and project results](docs/screenshots/overview.png)
+![Business overview with 12 months of earnings and a project breakdown](docs/screenshots/overview.webp)
 
-*Screenshots use fictional demonstration records.*
+*The screenshots follow a fictional production studio through 30 projects over a full year.*
 
 ## What you can do
 
@@ -40,9 +41,41 @@ Create projects, clients, and freelancers from the macOS File menu. Use View to 
 | **See how business is going** | Review monthly earnings, costs and profit, set goals and export financial summaries as CSV. |
 | **Make it your own** | Choose a usage profile, hide unnecessary features, personalize documents and switch between English and German. |
 
-![A project estimate with phases, roles, day rates and costs](docs/screenshots/calculation.png)
-
 **Keep it simple—or go deeper.** Solo creatives can use a lighter interface. Producers and project managers can add team planning, forecasts and contribution margins: DB1 after external costs, and DB2 after internal costs.
+
+## App screenshots
+
+### Project calculation
+
+Build an estimate across pre-production, production, and post-production. See how crew, equipment, and day rates add up to the project fee.
+
+![Summer Stories estimate with phase totals, crew rates, and equipment costs](docs/screenshots/calculation.webp)
+
+### Clients and contacts
+
+Browse client organizations in the Contacts hub, then open a client to see its people and linked projects.
+
+![Client directory with nine fictional creative businesses](docs/screenshots/clients.webp)
+
+![Northlight Studio client profile with its contacts and linked productions](docs/screenshots/client-detail.webp)
+
+### Freelancers
+
+Find crew by name or role and see their day rates and contact details.
+
+![Freelancer directory with fictional crew members, production roles, and day rates](docs/screenshots/freelancers.webp)
+
+### Project controlling
+
+Compare the project budget with booked costs and recorded time, and review forecast margins.
+
+![Summer Stories cost and profitability view with budget and margin figures](docs/screenshots/controlling.webp)
+
+### Billing
+
+Review issued invoices, payments, and the remaining balance as the project moves from deposit to delivery.
+
+![Summer Stories billing ledger with deposit, milestone, and final delivery invoices](docs/screenshots/billing.webp)
 
 ## Get started
 
